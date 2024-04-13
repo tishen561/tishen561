@@ -1,4 +1,5 @@
-### Hi there 👋
+- 👋 Hi there, I’m @tishen561
+- 👀 I’m a mechanical engineer with an interest in code and home labs
 
 <!--
 **tishen561/tishen561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
